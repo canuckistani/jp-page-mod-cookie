@@ -1,0 +1,1 @@
+{"license": "", "description": "page-mod to get cookies", "contributors": [], "author": "canuckistani", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "copy.rev19", "lib": "lib", "fullName": "page-mod - get cookie", "main": "main", "id": "pm-get-cookie", "name": "page-mod-get-cookie"}
